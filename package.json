@@ -1,7 +1,7 @@
 {
   "name": "radar-bzip2",
   "version": "1.0.0",
-  "description": "radar-bzip2",
+  "description": "radar-bzip2 from https://github.com/kirilloid/bzip2-js",
   "main": "modules/bzip2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
