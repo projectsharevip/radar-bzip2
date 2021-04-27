@@ -1,0 +1,23 @@
+{
+  "name": "radar-bzip2",
+  "version": "1.0.0",
+  "description": "radar-bzip2",
+  "main": "modules/bzip2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bzip2"
+  ],
+  "author": "projectsharevip",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
